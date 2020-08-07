@@ -1,0 +1,9 @@
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\Segitiga\bin\Debug\Segitiga.exe.config
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\Segitiga\bin\Debug\Segitiga.exe
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\Segitiga\bin\Debug\Segitiga.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\Segitiga\obj\Debug\Segitiga.csprojResolveAssemblyReference.cache
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\Segitiga\obj\Debug\Segitiga.exe
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\Segitiga\obj\Debug\Segitiga.pdb
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\bin\Debug\Segitiga.exe.config
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\obj\Debug\Segitiga.exe
+D:\PROJECT_WEB\REPO_LATIHAN\LATIHANC#\SEGITIGA\obj\Debug\Segitiga.pdb
